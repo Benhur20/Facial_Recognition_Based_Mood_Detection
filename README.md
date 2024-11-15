@@ -31,7 +31,7 @@ Follow these steps to set up the project locally:
    ```bash
    git clone https://github.com/Benhur20/Facial_Recognition_Based_Mood_Detection.git
    cd Facial_Recognition_Based_Mood_Detection
-
+   ```
 
 
 
